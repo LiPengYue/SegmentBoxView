@@ -78,4 +78,6 @@ self.boxView.config.segmentPointSpaceE_F = 300;//e线
 | `verticalOffset`        | `CGFloat` | Read/Write | 手势垂直判定方向的滚动距离，默认为10。                       |
 | `isShowDebugLine`       | `BOOL`    | Read/Write | 是否展示辅助线，默认为`NO`。                                 |
 
-## 四、demo
+## 四、demo 
+
+https://github.com/LiPengYue/SegmentBoxView.git
